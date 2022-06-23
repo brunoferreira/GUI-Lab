@@ -1,5 +1,3 @@
 # Participant GUI
 
-<!-- ## 📄 Tests -->
-
-<!-- <img src="q1.jpg" alt="tests1"> -->
+Just run main.py
