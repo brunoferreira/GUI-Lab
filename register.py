@@ -97,7 +97,7 @@ def register_run():
 
     tk.Label(
         frame, 
-        text='Password', 
+        text='Senha', 
         font=("Times", "14")
         ).grid(row=4, column=0, pady=5)
 
